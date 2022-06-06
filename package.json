@@ -1,6 +1,6 @@
 {
-  "name": "myfirst_cli",
-  "version": "1.0.0",
+  "name": "@huiquan.d/myfirst_cli",
+  "version": "0.1.0",
   "main": "index.js",
   "bin": "lib/cli.js",
   "author": "denghuiquan@qq.com",
