@@ -1,0 +1,5 @@
+body {
+    color: red;
+    font-size: large;
+    content: 'Hello world!!! <%= name %>';
+}
